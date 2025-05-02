@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("../images/cat5.png");
+}
+
+.before, .after {
+	color: silver;
+}
+
+.today {
+	background: green;
+}
+
+td, td {
+	border: 1px solid black;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.SUNDAY {
+	color: red;
+}
+
+.SATURDAY {
+	color: blue;
+}
